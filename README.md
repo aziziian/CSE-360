@@ -32,5 +32,11 @@ The project includes unit tests for CRUD operations on questions and answers.
 2. Right-click on the test class and select **Run as JUnit Test**.
 
 ## UML Diagrams
-- [Class Diagram]( )
-- [Sequence Diagram](  )
+Sequence:![image_2025-02-14_160959686](https://github.com/user-attachments/assets/fc956db8-0e6e-4803-9289-815758c24a88)
+Class: ![Screenshot 2025-02-14 155415](https://github.com/user-attachments/assets/5708f504-9493-4835-9eaf-c7162eb4d19f)
+
+
+##Code Video:
+https://github.com/user-attachments/assets/b887e7b9-08bb-45de-8160-0dcc192d0ada
+
+
